@@ -1,6 +1,6 @@
 # starter-ts
 
-[![code style][code-style-src][code-style-href]
+[![code style][code-style-src]][code-style-href]
 [![bundle][bundle-src]][bundle-href]
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
